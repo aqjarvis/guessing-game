@@ -1,0 +1,23 @@
+body  {
+    background-image: url("../images/hp1.jpeg");
+   
+  }
+
+.container {
+    border-style: dotted;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+
+
+
+#letters {
+    letter-spacing: 1rem;
+}
+
+.game-img {
+    max-width: 386px;
+    border-style: solid
+}
+
